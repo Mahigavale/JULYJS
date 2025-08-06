@@ -1,2 +1,9 @@
 
 1)Object.Assign(Target, source1, source2, source3...sourcen)=>modifyinhg=>modifies the target.
+2)Object.create()
+3)Object.freeze()
+4)Object.seal()
+5)Object.entries()
+6)Object.isSealed()
+7)Object.isFrozen()
+8) delete obj.property;
